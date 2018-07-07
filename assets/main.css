@@ -194,6 +194,18 @@ body{
     color: #45636B;
 }
 
+.regular-stuff .btn {
+  border: 2px solid black;
+  background-color: white;
+  border-color: #f44336;
+  color: red
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+
 
 /*Features List*/
 
