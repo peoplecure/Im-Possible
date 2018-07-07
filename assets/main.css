@@ -167,6 +167,12 @@ body{
     font-weight: normal;
 }
 
+.regular-stuff div{
+    display: inline-block;
+    width: 30%;
+    margin: 0px;
+}
+
 
 /*Features List*/
 
