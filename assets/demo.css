@@ -169,9 +169,6 @@ body{
     display: inline-block;
     width: 30%;
     margin: 5px;
-    border: 1px solid #ccc;
-    padding: 45px;
-    box-shadow: 1px 1px 1px #ccc, 0 0 30px #eee inset;
 }
 
 .features-list div i{
