@@ -150,8 +150,25 @@ body{
 
 }
 
-/*Features List*/
 
+
+/*Regurlar Stuff*/
+
+.regular-stuff{
+    padding: 0px 0;
+    background-color: #fff;
+    color: #25373C;
+    font-size: 18px;
+    text-align: center;
+}
+
+.regular-stuff h2{
+    font-size: 42px;
+    font-weight: normal;
+}
+
+
+/*Features List*/
 
 .features-list{
     padding: 0px 0;
