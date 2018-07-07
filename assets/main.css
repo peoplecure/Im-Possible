@@ -211,6 +211,7 @@ body{
 .regular-stuff .btn:hover {
     background: #f44336;
     color: #fff;
+    font-color: #fff;
 }
 
 
