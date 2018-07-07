@@ -128,7 +128,7 @@ body{
 .body-text h2{
     font-size: 42px;
     font-weight: normal;
-    margin-bottom: 120px;
+    margin-top: 40px;
 }
 
 .body-text p{
@@ -136,7 +136,7 @@ body{
     display: inline-block;
     text-align: left;
     vertical-align: text-top;
-    padding: 0px;
+    padding: 20px;
     color: #45636B;
 }
 
@@ -169,7 +169,7 @@ body{
 .features-list div{
     display: inline-block;
     width: 30%;
-    margin: 5px;
+    margin: 20px;
 }
 
 .features-list div i{
