@@ -128,14 +128,15 @@ body{
 .body-text h2{
     font-size: 42px;
     font-weight: normal;
-    margin-bottom: 80px;
+    margin-bottom: 120px;
 }
 
 .body-text p{
     width: 30%;
     display: inline-block;
     text-align: left;
-    padding: 20px;
+    vertical-align: text-top;
+    padding: 0px;
     color: #45636B;
 }
 
