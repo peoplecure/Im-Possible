@@ -209,7 +209,8 @@ body{
 }
 
 .regular-stuff .btn:hover {
-  background: #f44336;
+    background: #f44336;
+    color: #fff;
 }
 
 
