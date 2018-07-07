@@ -169,7 +169,7 @@ body{
 .features-list div{
     display: inline-block;
     width: 30%;
-    margin: 20px;
+    margin: 0px;
 }
 
 .features-list div i{
