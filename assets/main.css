@@ -194,7 +194,7 @@ body{
     color: #45636B;
 }
 
-#page-intro .btn{
+.regular-stuff .btn{
     color: #f44336 !important;
     display: block;
     margin: 40px auto;
