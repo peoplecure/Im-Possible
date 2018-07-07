@@ -169,10 +169,6 @@ body{
 
 .regular-stuff div{
     display: inline-block;
-    width: 70%;
-    max-width: 800px;
-    min-width: 400px;
-    margin: 0px;
 }
 
 .regular-stuff div i{
@@ -191,7 +187,10 @@ body{
     display: inline-block;
     text-align: left;
     vertical-align: text-top;
-    padding: 20px;
+    width: 70%;
+    max-width: 800px;
+    min-width: 400px;
+    margin: 0px;
     color: #45636B;
 }
 
