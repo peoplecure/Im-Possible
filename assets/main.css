@@ -111,6 +111,22 @@ body{
     text-decoration: none;
 }
 
+#page-intro .btn:hover{
+    color: #0c0f19 !important;
+    background-color: #fff;
+    display: block;
+    margin: 40px auto;
+    width: 200px;
+    text-align: center;
+    border: 1px solid #fff;
+    padding: 18px 20px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
 
 
 /*Body Text*/
