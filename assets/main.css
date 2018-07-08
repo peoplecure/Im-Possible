@@ -37,7 +37,6 @@ body{
     left:0;
     width:100%;
     overflow:hidden;
-
     height:80vh;
     top:-80vh;
 }
@@ -210,6 +209,7 @@ body{
 
 .regular-stuff .button:hover{
     color: #fff !important;
+    background-color: #f44336;
     display: block;
     margin: 40px auto;
     width: 200px;
