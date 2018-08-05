@@ -182,13 +182,41 @@ body{
     color: #45636B;
 }
 
-
 @media (max-width: 900px){
 
     .body-text p{
         width: 100%;
     }
 
+}
+
+.body-text .button{
+    color: #f44336 !important;
+    display: block;
+    margin: 40px auto;
+    width: 200px;
+    text-align: center;
+    border: 3px solid #f44336;
+    padding: 18px 20px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.body-text .button:hover{
+    color: #fff !important;
+    background-color: #f44336;
+    display: block;
+    margin: 40px auto;
+    width: 200px;
+    text-align: center;
+    border: 3px solid #f44336;
+    padding: 18px 20px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 
