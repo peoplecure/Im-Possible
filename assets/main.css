@@ -181,7 +181,7 @@ body{
     color: #45636B;
 }
 
-.body-text content .button{
+.body-text .button{
     color: #f44336 !important;
     display: block;
     margin: 40px auto;
@@ -195,7 +195,7 @@ body{
     text-decoration: none;
 }
 
-.body-text content .button:hover{
+.body-text .button:hover{
     color: #fff !important;
     background-color: #f44336;
     display: block;
@@ -209,8 +209,6 @@ body{
     font-weight: bold;
     text-decoration: none;
 }
-
-
 
 @media (max-width: 900px){
 
